@@ -38,3 +38,53 @@ Developed to align with modern ALM functions, this simulation emphasizes scalabi
    ```bash
    git clone https://github.com/jliu2025/irrbb-python-simulation.git
    cd irrbb-python-simulation
+   
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+### Project Structure
+irrbb-python-simulation/
+├── irrbb_simulation.py       # Main script for IRRBB simulation
+├── requirements.txt          # Python dependencies
+├── LICENSE                   # MIT License
+├── README.md                 # This file
+   
+
+## Future Enhancements
+Behavioral Modeling: Incorporate prepayment rates for loans and withdrawal rates for non-maturity deposits (NMDs) to reflect real-world customer behavior.
+
+Key Rate Durations (KRDs): Add KRD calculations to measure sensitivity to specific yield curve points.
+
+Visualization: Integrate plotly or matplotlib for interactive yield curve plots and stress test dashboards.
+
+Power BI Integration: Enhance CSV outputs for seamless import into Power BI, supporting reporting needs.
+
+Database Support: Store banking book data in SQLite or PostgreSQL using sqlalchemy for scalability.
+
+Multi-Currency Modeling: Extend to handle CAD, USD and other currencies relevant to global banks.
+
+
+## Contributing
+Contributions are welcome to enhance the simulation’s functionality and regulatory alignment! To contribute:
+Fork the repository.
+
+Create a feature branch (git checkout -b feature/your-feature).
+
+Commit changes (git commit -m "Add your feature").
+
+Push to the branch (git push origin feature/your-feature).
+
+Open a Pull Request.
+
+Please follow the Contributing Guidelines (CONTRIBUTING.md) (to be added).
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Author
+### Jonathan Liu
+LinkedIn: linkedin.com/in/jonathan-liu-ca
+
+Developed as a practical project to demonstrate ALM and IRRBB expertise for banking risk management roles, inspired by Scotiabank’s ALM requirements and in support of PRMIA Market, Liquidity, and Asset Liability Management Risk Manager (MLARM) coursework.
+
