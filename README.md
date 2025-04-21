@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ### Jonathan Liu
 LinkedIn: linkedin.com/in/jonathan-liu-ca
 
-Developed as a practical project to demonstrate ALM and IRRBB expertise for banking risk management roles, inspired by Scotiabank’s ALM requirements and in support of PRMIA Market, Liquidity, and Asset Liability Management Risk Manager (MLARM) coursework.
+Developed as a practical project to demonstrate ALM and IRRBB expertise for banking risk management.
 
