@@ -45,9 +45,13 @@ Developed to align with modern ALM functions, this simulation emphasizes scalabi
 
 ### Project Structure
 irrbb-python-simulation/
+
 ├── irrbb_simulation.py       # Main script for IRRBB simulation
+
 ├── requirements.txt          # Python dependencies
+
 ├── LICENSE                   # MIT License
+
 ├── README.md                 # This file
    
 
