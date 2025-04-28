@@ -15,7 +15,6 @@ Developed to align with modern ALM functions, this simulation emphasizes scalabi
 
 ## Features
 - **Banking Book Modeling**: Simulates a portfolio with fixed-rate loans, floating-rate loans, floating-rate deposits, and non-interest-bearing demand deposits.
-- **Gap Analysis**: Calculates repricing gaps in time buckets (3 months, 5 years) to assess interest rate mismatch risk.
 - **EVE Calculation**: Computes the present value of assets and liabilities, discounted under base and shocked yield curves.
 - **NII Estimation**: Models 1-year net interest income, adjusting for variable-rate repricing under shock scenarios.
 - **Stress Testing**: Implements six EBA shock scenarios:
