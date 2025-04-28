@@ -9,7 +9,7 @@ A Python-based simulation for **Interest Rate Risk in the Banking Book (IRRBB)**
 This repository provides a streamlined IRRBB simulation to model interest rate risk in a simplified banking book, supporting:
 - **Regulatory Compliance**: Stress testing for EVE and NII under EBA scenarios, applicable to OSFI B-12 requirements for Canadian banks.
 - **Data-Driven ALM**: Automation of risk metrics using Python, with outputs compatible with tools like Power BI for executive reporting.
-- **Professional Development**: A practical project for professionals pursuing ALM certifications (e.g., PRMIA MLARM) or roles in banking risk management, showcasing data science and financial modeling skills.
+- **Professional Development**: A practical project for professionals pursuing ALM roles in banking risk management, showcasing data science and financial modeling skills.
 
 Developed to align with modern ALM functions, this simulation emphasizes scalability, regulatory alignment, and integration with data analytics workflows.
 
