@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
-A Python-based simulation for **Interest Rate Risk in the Banking Book (IRRBB)**, calculating **Repricing Gap**, **Economic Value of Equity (EVE)**, and **Net Interest Income (NII)** under the six EBA-prescribed interest rate shock scenarios (Parallel Up/Down, Steepener, Flattener, Short Rates Up/Down). This project demonstrates practical Asset and Liability Management (ALM) analytics, aligned with regulatory frameworks like **OSFI B-12** and **EBA IRRBB guidelines**, suitable for banking book risk management and regulatory reporting.
+A Python-based simulation for **Interest Rate Risk in the Banking Book (IRRBB)**, calculating **Repricing Gap**, **Economic Value of Equity (EVE)**, and **Net Interest Income (NII)** under the six EBA-prescribed interest rate shock scenarios (Parallel Up/Down, Steepener, Flattener, Short Rates Up/Down). This project demonstrates practical Asset and Liability Management (ALM) analytics, aligned with regulatory frameworks like **OSFI B-12** , suitable for banking book risk management and regulatory reporting.
 
 ## Purpose
 This repository provides a streamlined IRRBB simulation to model interest rate risk in a simplified banking book, supporting:
